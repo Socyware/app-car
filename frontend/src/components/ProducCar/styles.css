@@ -1,0 +1,23 @@
+.car-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    margin-top: 20px;
+    width: 300px;
+    height: 347px;
+    left: 10px;
+    top: 196px;
+    background: #EDEDED;
+    border-radius: 10px;
+    padding: 10px 10px 60px 10px;
+
+}
+
+.img-car img {
+    width: 220.72px;
+    height: 165px;
+
+}
+
+
